@@ -1,2 +1,4 @@
 # Custom-new-tab
-custom your own new tab
+Custom your own newtab
+
+You can design fun.html yourself.
